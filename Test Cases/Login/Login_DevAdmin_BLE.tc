@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_DevAdmin_BLE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30545c79-791f-41ad-9344-f390eec62ddb</testCaseGuid>
+</TestCaseEntity>

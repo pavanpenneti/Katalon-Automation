@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Admin_WiFi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ec47250-4c32-47fc-a70f-0bef0c0e0077</testCaseGuid>
+</TestCaseEntity>
